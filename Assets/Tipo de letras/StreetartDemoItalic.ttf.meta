@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 56326ed7e5905f04dbf32eb944203630
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Streetart Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33e2418001940c14bb25239c0129de46, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
